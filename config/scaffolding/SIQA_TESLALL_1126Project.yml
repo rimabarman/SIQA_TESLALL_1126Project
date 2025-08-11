@@ -12,3 +12,8 @@ packages:
   gitUrl: https://github.com/Karthik-V-IBM-10
   gitUsername: Karthik-V-IBM-10
   gitBranch: main
+- name: SIQA_OriginTest_OnPremAssets
+  gitServerName: kvv
+  gitUrl: https://github.com/vijetadixit
+  gitUsername: Karthik-V-IBM-10
+  gitBranch: Test
